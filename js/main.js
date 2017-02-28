@@ -6,6 +6,7 @@ newgame()
 
 function newgame() {
     //初始化分数
+    score=0
     updateScroe()
     // 初始化格子
     init()
